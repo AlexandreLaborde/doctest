@@ -1,0 +1,157 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ImportantProject
+  name: ImportantProject
+  href: api/ImportantProject.html
+  commentId: N:ImportantProject
+  fullName: ImportantProject
+  nameWithType: ImportantProject
+- uid: ImportantProject.Class1
+  name: Class1
+  href: api/ImportantProject.Class1.html
+  commentId: T:ImportantProject.Class1
+  fullName: ImportantProject.Class1
+  nameWithType: Class1
+- uid: ImportantProject.M
+  name: M
+  href: api/ImportantProject.M.html
+  commentId: T:ImportantProject.M
+  fullName: ImportantProject.M
+  nameWithType: M
+- uid: ImportantProject.M.doWork
+  name: doWork()
+  href: api/ImportantProject.M.html#ImportantProject_M_doWork
+  commentId: M:ImportantProject.M.doWork
+  fullName: ImportantProject.M.doWork()
+  nameWithType: M.doWork()
+- uid: ImportantProject.M.doWork*
+  name: doWork
+  href: api/ImportantProject.M.html#ImportantProject_M_doWork_
+  commentId: Overload:ImportantProject.M.doWork
+  isSpec: "True"
+  fullName: ImportantProject.M.doWork
+  nameWithType: M.doWork
+- uid: ImportantProject.M`1
+  name: M<T>
+  href: api/ImportantProject.M-1.html
+  commentId: T:ImportantProject.M`1
+  name.vb: M(Of T)
+  fullName: ImportantProject.M<T>
+  fullName.vb: ImportantProject.M(Of T)
+  nameWithType: M<T>
+  nameWithType.vb: M(Of T)
+- uid: ImportantProject.M`1.doWork
+  name: doWork()
+  href: api/ImportantProject.M-1.html#ImportantProject_M_1_doWork
+  commentId: M:ImportantProject.M`1.doWork
+  fullName: ImportantProject.M<T>.doWork()
+  fullName.vb: ImportantProject.M(Of T).doWork()
+  nameWithType: M<T>.doWork()
+  nameWithType.vb: M(Of T).doWork()
+- uid: ImportantProject.M`1.doWork*
+  name: doWork
+  href: api/ImportantProject.M-1.html#ImportantProject_M_1_doWork_
+  commentId: Overload:ImportantProject.M`1.doWork
+  isSpec: "True"
+  fullName: ImportantProject.M<T>.doWork
+  fullName.vb: ImportantProject.M(Of T).doWork
+  nameWithType: M<T>.doWork
+  nameWithType.vb: M(Of T).doWork
+- uid: ImportantProject.M`1.Process(`0)
+  name: Process(T)
+  href: api/ImportantProject.M-1.html#ImportantProject_M_1_Process__0_
+  commentId: M:ImportantProject.M`1.Process(`0)
+  fullName: ImportantProject.M<T>.Process(T)
+  fullName.vb: ImportantProject.M(Of T).Process(T)
+  nameWithType: M<T>.Process(T)
+  nameWithType.vb: M(Of T).Process(T)
+- uid: ImportantProject.M`1.Process*
+  name: Process
+  href: api/ImportantProject.M-1.html#ImportantProject_M_1_Process_
+  commentId: Overload:ImportantProject.M`1.Process
+  isSpec: "True"
+  fullName: ImportantProject.M<T>.Process
+  fullName.vb: ImportantProject.M(Of T).Process
+  nameWithType: M<T>.Process
+  nameWithType.vb: M(Of T).Process
+- uid: ImportantProject.M`1.SomeProperty
+  name: SomeProperty
+  href: api/ImportantProject.M-1.html#ImportantProject_M_1_SomeProperty
+  commentId: P:ImportantProject.M`1.SomeProperty
+  fullName: ImportantProject.M<T>.SomeProperty
+  fullName.vb: ImportantProject.M(Of T).SomeProperty
+  nameWithType: M<T>.SomeProperty
+  nameWithType.vb: M(Of T).SomeProperty
+- uid: ImportantProject.M`1.SomeProperty*
+  name: SomeProperty
+  href: api/ImportantProject.M-1.html#ImportantProject_M_1_SomeProperty_
+  commentId: Overload:ImportantProject.M`1.SomeProperty
+  isSpec: "True"
+  fullName: ImportantProject.M<T>.SomeProperty
+  fullName.vb: ImportantProject.M(Of T).SomeProperty
+  nameWithType: M<T>.SomeProperty
+  nameWithType.vb: M(Of T).SomeProperty
+- uid: ImportantProject.myInter
+  name: myInter
+  href: api/ImportantProject.myInter.html
+  commentId: T:ImportantProject.myInter
+  fullName: ImportantProject.myInter
+  nameWithType: myInter
+- uid: ImportantProject.myInter.ID
+  name: ID
+  href: api/ImportantProject.myInter.html#ImportantProject_myInter_ID
+  commentId: P:ImportantProject.myInter.ID
+  fullName: ImportantProject.myInter.ID
+  nameWithType: myInter.ID
+- uid: ImportantProject.myInter.ID*
+  name: ID
+  href: api/ImportantProject.myInter.html#ImportantProject_myInter_ID_
+  commentId: Overload:ImportantProject.myInter.ID
+  isSpec: "True"
+  fullName: ImportantProject.myInter.ID
+  nameWithType: myInter.ID
+- uid: ImportantProject.SubNS
+  name: ImportantProject.SubNS
+  href: api/ImportantProject.SubNS.html
+  commentId: N:ImportantProject.SubNS
+  fullName: ImportantProject.SubNS
+  nameWithType: ImportantProject.SubNS
+- uid: ImportantProject.SubNS.Cenas
+  name: Cenas
+  href: api/ImportantProject.SubNS.Cenas.html
+  commentId: T:ImportantProject.SubNS.Cenas
+  fullName: ImportantProject.SubNS.Cenas
+  nameWithType: Cenas
+- uid: ImportantProject.SubNS.Cenas.ID
+  name: ID
+  href: api/ImportantProject.SubNS.Cenas.html#ImportantProject_SubNS_Cenas_ID
+  commentId: P:ImportantProject.SubNS.Cenas.ID
+  fullName: ImportantProject.SubNS.Cenas.ID
+  nameWithType: Cenas.ID
+- uid: ImportantProject.SubNS.Cenas.ID*
+  name: ID
+  href: api/ImportantProject.SubNS.Cenas.html#ImportantProject_SubNS_Cenas_ID_
+  commentId: Overload:ImportantProject.SubNS.Cenas.ID
+  isSpec: "True"
+  fullName: ImportantProject.SubNS.Cenas.ID
+  nameWithType: Cenas.ID
+- uid: ImportantProject.SubNS.Mod
+  name: Mod
+  href: api/ImportantProject.SubNS.Mod.html
+  commentId: T:ImportantProject.SubNS.Mod
+  fullName: ImportantProject.SubNS.Mod
+  nameWithType: Mod
+- uid: ImportantProject.SubNS.Mod.Process(ImportantProject.SubNS.Cenas)
+  name: Process(Cenas)
+  href: api/ImportantProject.SubNS.Mod.html#ImportantProject_SubNS_Mod_Process_ImportantProject_SubNS_Cenas_
+  commentId: M:ImportantProject.SubNS.Mod.Process(ImportantProject.SubNS.Cenas)
+  fullName: ImportantProject.SubNS.Mod.Process(ImportantProject.SubNS.Cenas)
+  nameWithType: Mod.Process(Cenas)
+- uid: ImportantProject.SubNS.Mod.Process*
+  name: Process
+  href: api/ImportantProject.SubNS.Mod.html#ImportantProject_SubNS_Mod_Process_
+  commentId: Overload:ImportantProject.SubNS.Mod.Process
+  isSpec: "True"
+  fullName: ImportantProject.SubNS.Mod.Process
+  nameWithType: Mod.Process

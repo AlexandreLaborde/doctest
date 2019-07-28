@@ -1,0 +1,234 @@
+{
+  "homepages": [],
+  "source_base_path": "c:/Users/alexa/Documents/Orgerlab Bitbucket/doctest/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ImportantProject.Class1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ImportantProject.Class1.html",
+          "hash": "ey0pKI20SrsnYzANgGtraQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ImportantProject.M-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ImportantProject.M-1.html",
+          "hash": "Bstnhdn9N02lX9HlpBwoMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ImportantProject.M.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ImportantProject.M.html",
+          "hash": "OT9DyLMVQXf0u10vgeSQlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ImportantProject.SubNS.Cenas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ImportantProject.SubNS.Cenas.html",
+          "hash": "dIOssspNP7+PqWficgJtQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ImportantProject.SubNS.Mod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ImportantProject.SubNS.Mod.html",
+          "hash": "sQ5BDwzWssJQiLVQNzsl7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ImportantProject.SubNS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ImportantProject.SubNS.html",
+          "hash": "flpLWKRCk9HModKQUPMPng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ImportantProject.myInter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ImportantProject.myInter.html",
+          "hash": "K0CPYPjvJsG+ezvU9vHgaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ImportantProject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ImportantProject.html",
+          "hash": "xLjfBf033P1KWxeYmIhSvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "LCo6Otw7yBTzjejMvjvL/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "4c6DOPXrLMC6wLupOAUAxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "45oAjZw/VmQkFLXxujKmaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/part2.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/part2.html",
+          "hash": "Vm1WTvng46gtXjyEr+0WCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "LVcfKe2mYg7HyAjUujJp7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "gzaTZ7sLf5+ErIUbOq6hIw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "k+/dkjFuwAVS32HduMpmBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 4
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 8,
+          "skipped_file_count": 8
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
